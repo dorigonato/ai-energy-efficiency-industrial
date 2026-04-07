@@ -67,7 +67,6 @@ O primeiro ponto ficou claro rapidamente: **a qualidade da resposta depende dire
 Resultado:
 Resposta ampla, pouco aplicável e sem profundidade.
 
----
 
 ### Ajuste de direção
 
@@ -76,7 +75,6 @@ Resposta ampla, pouco aplicável e sem profundidade.
 Resultado:
 Melhor direcionamento, mas ainda superficial.
 
----
 
 ### Prompt estruturado (resultado consistente)
 
@@ -85,7 +83,6 @@ Melhor direcionamento, mas ainda superficial.
 Resultado:
 Respostas mais técnicas, com aplicação clara.
 
----
 
 ### Simulação de cenário (maior valor)
 
@@ -94,7 +91,6 @@ Respostas mais técnicas, com aplicação clara.
 Resultado:
 Conteúdo próximo da realidade, com potencial de uso prático e até comercial.
 
----
 
 ### Principais aprendizados
 
@@ -104,7 +100,6 @@ Conteúdo próximo da realidade, com potencial de uso prático e até comercial.
 * Iterar o prompt faz parte do processo;
 * IA funciona melhor como ferramenta de análise do que como simples fonte de informação.
 
----
 
 ## 4. Miniguia de Estudo
 
@@ -120,7 +115,6 @@ Na prática, isso acontece através de:
 * Manutenção preditiva;
 * Detecção de anomalias.
 
----
 
 ### 4.2 Principais Benefícios
 
@@ -130,7 +124,6 @@ Na prática, isso acontece através de:
 * Melhor aproveitamento de ativos;
 * Suporte mais consistente à tomada de decisão.
 
----
 
 ### 4.3 Glossário
 
@@ -152,7 +145,6 @@ Processamento de dados próximo à operação.
 **Detecção de Anomalias**
 Identificação de comportamentos fora do padrão esperado.
 
----
 
 ### 4.4 Prompts Reutilizáveis
 
@@ -162,7 +154,6 @@ Identificação de comportamentos fora do padrão esperado.
 * "Simule o impacto financeiro da aplicação de IA em uma fábrica de médio porte."
 * "Compare operação tradicional com operação otimizada por IA em termos de eficiência e custo."
 
----
 
 ## Conclusão
 
